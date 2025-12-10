@@ -10,9 +10,9 @@
     <meta property="og:description" content="Como as peças amplas conquistaram guarda-roupas e redefiniram o conceito de moda casual contemporânea">
     <meta property="og:type" content="article">
     <meta name="twitter:card" content="summary_large_image">
-</head>
+  </head>
   <body>
     <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
+    <script type="module" src="http://localhost:5173/src/main.tsx"></script>
   </body>
 </html>
